@@ -1,0 +1,61 @@
+body {
+    font-family: 'Roboto', sans-serif; /* Add a Google font */
+    margin: 0;
+    padding: 0;
+    background-color: #222; /* Change background color to black */
+    color: #fff; /* Change text color to white */
+  }
+  
+  .container {
+    max-width: 400px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #333; 
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3); 
+  }
+  
+  h1 {
+    font-size: 28px;
+    margin-top: 0;
+    margin-bottom: 20px;
+    text-align: center;
+    color: #ff5733; 
+  }
+  
+  h2 {
+    font-size: 20px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    color: #ff5733; 
+  }
+  
+  .tracked-time-list {
+    max-height: 300px;
+    overflow-y: auto;
+  }
+  
+  .tracked-time-item {
+    padding: 10px;
+    background-color: #444; /* Darken the tracked time item background color */
+    border-bottom: 1px solid #555; /* Adjust border color */
+  }
+  
+  .tracked-time-item:last-child {
+    border-bottom: none;
+  }
+  
+  .tracked-time-item:hover {
+    background-color: #555; /* Darken hover background color */
+  }
+  
+  .tracked-time-item .website {
+    font-weight: bold;
+    color: #ff5733; /* Change website name color to red */
+  }
+  
+  .tracked-time-item .time {
+    color: #bbb; /* Adjust time color */
+    font-size: 14px;
+  }
+  

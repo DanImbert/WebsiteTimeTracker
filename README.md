@@ -1,7 +1,6 @@
 
 #### Description: The "Website Time Tracker" is a browser extension designed to help users monitor and manage their time spent on different websites. With this extension, users can track the amount of time they spend on each website they visit, allowing them to gain insights into their browsing habits and productivity.
 
-The "Website Time Tracker" is a browser extension designed to help users monitor and manage their time spent on different websites. With this extension, users can track the amount of time they spend on each website they visit, allowing them to gain insights into their browsing habits and productivity.
 Real-Time Tracking: The extension continuously monitors the user's browsing activity in real-time, accurately tracking the time spent on each website. Detailed Insights: Users can view detailed statistics and reports showing the total time spent on each website over a specific period.
 Customizable Settings: Users have the flexibility to customize settings such as tracking intervals and display preferences to suit their individual needs. Data Persistence: Tracked time data is stored locally, ensuring that it remains accessible even after browser sessions or system restarts.
 User-Friendly Interface: The extension provides a clean and intuitive user interface, making it easy for users to view and manage their tracked time data. Productivity Improvement:
